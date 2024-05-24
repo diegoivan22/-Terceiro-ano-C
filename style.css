@@ -36,5 +36,5 @@ body{
 
 .conteudo-senha{
     background: var(--fundo-senha);
-    
+    padding: 24px;
 }
